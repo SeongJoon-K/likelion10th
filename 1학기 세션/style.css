@@ -11,7 +11,7 @@
   margin-top: 4%;
   margin-bottom: 10%;
 }
-.hi {
+#hi {
   font-size: 40px;
 }
 .header {
@@ -34,17 +34,13 @@ img {
 
 
 }
-.content {
+#content {
   font-weight: 400px;
   font-size: large;
   font-family: 'Noto Serif KR', serif;
   text-align: center;
-
 }
 
-a {
-  text-decoration: none;
-}
 #accordionExample {
   width: 500px;
   height: 300px;
@@ -61,4 +57,23 @@ hr {
 input {
   height: 50px;
   width: 65px;
+}
+#btn {
+  width: 93px;
+  height: 28px;
+}
+.scroll-container{
+  display: block;
+  text-align:center;
+  margin:auto;
+  width: 350px;
+  height: 250px;
+}
+#MBTI {
+  margin-top: 200px;
+}
+#insta {
+  width: 30px;
+  height: 30px;
+  background-color: white;
 }
