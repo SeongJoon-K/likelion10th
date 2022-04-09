@@ -81,10 +81,11 @@ section {
 .desc-text {
     font-size: 9px;
 }
-.desc-subtext {
+.desc-sub {
     font-size: 9px;
     color: #282828;
     padding-left: 16px; 
+    
     /* 들여쓰기 처럼 먹게 됨 */
 }
 .title-box {
